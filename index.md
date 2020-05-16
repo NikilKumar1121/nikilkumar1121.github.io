@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Electric Motor Temperature Prediction](/pdf/presentation.pdf)
+[Electric Motor Temperature Prediction](/pdf/presentation.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
