@@ -11,7 +11,7 @@
 ---
 [Electric Motor Temperature Prediction](/sample_page)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/motor.jpg?raw=true"/>
 
 ---
 [Movie Genre Predictor](http://example.com/)
