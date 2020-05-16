@@ -22,7 +22,7 @@
 
 ### Project Links
 
-- [Twitter Sentiment Analysis (NLP)](nikilstark.pythonanywhere.com)
+- [Twitter Sentiment Analysis (NLP)](http://nikilstark.pythonanywhere.com/)
 - [Electric Motor Temperature Prediction](http://example.com/)
 - [Movie Genre Predictor](http://example.com/)
 
