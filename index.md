@@ -16,6 +16,6 @@
 ---
 [Movie Genre Predictor](http://example.com/)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/genre.jpg?raw=true"/>
 
 ---
