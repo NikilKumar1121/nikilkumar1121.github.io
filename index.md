@@ -10,21 +10,21 @@
 
 ---
 [Electric Motor Temperature Prediction](/pdf/presentation.pptx)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Movie Genre Predictor](http://example.com/)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Project Links
 
-- [Twitter Sentiment Analysis (NLP)](http://http://nikilstark.pythonanywhere.com/)
+- [Twitter Sentiment Analysis (NLP)](nikilstark.pythonanywhere.com)
 - [Electric Motor Temperature Prediction](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Movie Genre Predictor](http://example.com/)
 
 ---
 
