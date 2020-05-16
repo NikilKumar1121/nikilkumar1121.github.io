@@ -4,7 +4,8 @@
 
 ###  Projects 
 
-[Twitter Sentiment Analysis](/sample_page)
+[Twitter Sentiment Analysis (NLP)](/sample_page)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,8 +20,8 @@
 
 ### Project Links
 
-- [Project 1 Title](http://http://nikilstark.pythonanywhere.com/)
-- [Project 2 Title](http://example.com/)
+- [Twitter Sentiment Analysis (NLP)](http://http://nikilstark.pythonanywhere.com/)
+- [Electric Motor Temperature Prediction](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
