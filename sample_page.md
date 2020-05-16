@@ -1,31 +1,36 @@
-## This can be your internal website page / project page
+## Electric Motor Temperature Prediction
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The main purpose of the data set's recording is to be able to model the stator and rotor temperatures of a PMSM in real-time. Due to the intricate structure of an electric traction drive, direct measurement with thermal sensors is not possible for rotor temperatures, and even in case of the stator temperatures, sensor outage or even just deterioration can't be administered properly without redundant modeling.In addition, precise thermal modeling gets more and more important with the rising relevance of functional safety.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Objective:
+Predict Motor temperature (“PM”) based on other attributes available are like ambient, coolant, torque, current d_q components, voltage d_q components, stator yoke, stator tooth, stator winding, permanent magnet and profile_id.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Data Set Details
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+998070 rows X 14 Columns-Continuous Data 
 
-### 2. Assess assumptions on which statistical inference will be based
+### Relationship among variables
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/correlation.png?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### Algorithms Used
+- Multiple Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Elastic net regression
+- Decision tree Regressor
+- Xgboost Regressor
+- GBM model
+- Random Forest Regression
+- Earth: Multivariate Adaptive Regression Splines
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### H2O.ai models:
 
-### 4. Provide a basis for further data collection through surveys or experiments
+- Neural network
+- Random forest
+- Auto ML
+- GBM
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Model Evaluation
+- Random Forest
+<img src="images/model.png?raw=true"/>
