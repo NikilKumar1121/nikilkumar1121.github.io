@@ -4,12 +4,12 @@
 
 ###  Projects 
 
-[Twitter Sentiment Analysis (NLP)](/sample_page)
+[Twitter Sentiment Analysis (NLP)](http://nikilstark.pythonanywhere.com/)
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Electric Motor Temperature Prediction](/pdf/presentation.pptx)
+[Electric Motor Temperature Prediction](/sample_page)
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -19,17 +19,3 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Project Links
-
-- [Twitter Sentiment Analysis (NLP)](http://nikilstark.pythonanywhere.com/)
-- [Electric Motor Temperature Prediction](http://example.com/)
-- [Movie Genre Predictor](http://example.com/)
-
----
-
-
-
-
----
-
