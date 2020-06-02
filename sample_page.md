@@ -34,3 +34,11 @@ Predict Motor temperature (“PM”) based on other attributes available are lik
 ### Model Evaluation
 - Random Forest
 <img src="images/model.png?raw=true"/>
+
+### Deployment
+- Upload datasets and download Predictions
+- input values of attributes and predict temperature
+
+### Deployment website link
+<a href ="https://nikil-kumar.shinyapps.io/PROJECT_NEW/">Electric motor temperature</a>
+
