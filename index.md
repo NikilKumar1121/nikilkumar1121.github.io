@@ -14,7 +14,7 @@
 <img src="images/motor.jpg?raw=true"/>
 
 ---
-[Movie Genre Predictor](https://github.com/nikilstark/Movie-Genre-Predictor?files=1)
+[Movie Genre Predictor](http://13.58.194.45:5000/)
 <br>
 <img src="images/genre.jpg?raw=true"/>
 
